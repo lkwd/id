@@ -1,7 +1,7 @@
 package = 'id'
 version = 'scm-1'
 source  = {
-    url    = 'git+ssh://github.com/lkwd/id.git',
+    url    = 'git+ssh://git@github.com/lkwd/id.git',
     branch = 'master',
 }
 description = {
