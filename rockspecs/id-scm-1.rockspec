@@ -1,7 +1,7 @@
 package = 'id'
 version = 'scm-1'
 source  = {
-    url    = 'git://github.com/moonlibs/id.git',
+    url    = 'git+ssh://github.com/lkwd/id.git',
     branch = 'master',
 }
 description = {
